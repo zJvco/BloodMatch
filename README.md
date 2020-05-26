@@ -1,2 +1,2 @@
-#  https://jvco1.github.io/APS/index.html
+#  https://jvco1.github.io/APS/
 UNIP - APS
